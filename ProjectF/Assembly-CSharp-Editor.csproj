@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_12;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;ODIN_INSPECTOR;ODIN_INSPECTOR_3;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;NET_STANDARD_2_0</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_12;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;ODIN_INSPECTOR;ODIN_INSPECTOR_3;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -36,9 +36,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Editor\TableManagerClassCreator.cs" />
      <Compile Include="Assets\Editor\Tool\Data\GameDataTool_ExcelImport.cs" />
      <Compile Include="Assets\Editor\Tool\Data\GameDataTool.cs" />
-     <Compile Include="Assets\Editor\TableManagerClassCreator.cs" />
      <None Include="Assets\Editor\Table_Manager_class.txt" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Unity/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -274,26 +274,29 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
         <HintPath>D:/Unity/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    <Reference Include="Sirenix.OdinInspector.Attributes">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-        <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="unityplastic">
-        <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.OdinInspector.Editor">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.OdinInspector.Attributes">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll</HintPath>
-    </Reference>
     <Reference Include="Sirenix.Serialization.Config">
         <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Utilities.Editor">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="mcs">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/QFSW/Quantum Console/Source/Extras/exec/CSharpCompiler/Plugins/mcs.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Antlr3.Runtime">
+        <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="ACTkSharpZipLib">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/CodeStage/AntiCheatToolkit/Editor/SharpZip/ACTkSharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="Sirenix.Utilities">
         <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll</HintPath>
@@ -301,8 +304,23 @@
     <Reference Include="Sirenix.Serialization">
         <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="Sirenix.Utilities.Editor">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll</HintPath>
+    <Reference Include="unityplastic">
+        <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Excel/ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DemiEditor">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Excel/Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
     </Reference>
     <Reference Include="DemiLib">
         <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
@@ -310,32 +328,14 @@
     <Reference Include="DOTweenProEditor">
         <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Sirenix.OdinInspector.Editor">
+        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="DOTweenEditor">
         <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
-    <Reference Include="DemiEditor">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenPro">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
-    </Reference>
-    <Reference Include="ICSharpCode.SharpZipLib">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Excel/ICSharpCode.SharpZipLib.dll</HintPath>
-    </Reference>
-    <Reference Include="Excel">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Excel/Excel.dll</HintPath>
-    </Reference>
     <Reference Include="EPPlus">
         <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/Excel/EPPlus.dll</HintPath>
-    </Reference>
-    <Reference Include="ACTkSharpZipLib">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/CodeStage/AntiCheatToolkit/Editor/SharpZip/ACTkSharpZipLib.dll</HintPath>
-    </Reference>
-    <Reference Include="mcs">
-        <HintPath>D:/ProjectF/ProjectF/Assets/Plugins/QFSW/Quantum Console/Source/Extras/exec/CSharpCompiler/Plugins/mcs.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>D:/ProjectF/ProjectF/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
@@ -736,14 +736,8 @@
     <Reference Include="Unity.2D.Sprite.Editor">
         <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.2D.Psdimporter.Editor">
-        <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.2D.Path.Editor">
         <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEditorBridge.001">
-        <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
@@ -754,8 +748,14 @@
     <Reference Include="Unity.Rider.Editor">
         <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Psdimporter.Editor">
+        <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+        <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
         <HintPath>D:/ProjectF/ProjectF/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
@@ -804,25 +804,61 @@
       <Project>{6dd96688-2288-99a3-1c68-cc0fce4680f8}</Project>
       <Name>Assembly-CSharp-Editor-firstpass</Name>
     </ProjectReference>
-    <ProjectReference Include="ACTk.Runtime.csproj">
-      <Project>{9add0a0e-c76d-befb-7c27-56595a4585b2}</Project>
-      <Name>ACTk.Runtime</Name>
+    <ProjectReference Include="ACTk.Examples.Genuine.Runtime.csproj">
+      <Project>{2878e9ca-27ad-c9a8-60f2-59e2b7ac031c}</Project>
+      <Name>ACTk.Examples.Genuine.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="ACTk.Editor.csproj">
+      <Project>{7bdc8e5e-e657-d39b-db2f-3f8e209e211b}</Project>
+      <Name>ACTk.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.QGUI.csproj">
+      <Project>{5bb944ec-baae-6d5c-44f5-e9bde3e03603}</Project>
+      <Name>QFSW.QC.QGUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="CodeStage.Maintainer.Editor.csproj">
+      <Project>{717ad06f-59f5-3e73-bc64-4de747514a41}</Project>
+      <Name>CodeStage.Maintainer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="QFSW.QC.Serializers.csproj">
       <Project>{0d4efcea-5dea-a454-a19b-5eb2e5c5285f}</Project>
       <Name>QFSW.QC.Serializers</Name>
     </ProjectReference>
-    <ProjectReference Include="QFSW.QC.Parsers.csproj">
-      <Project>{d941a8b6-f66d-c24a-8a48-fc93034a0a8b}</Project>
-      <Name>QFSW.QC.Parsers</Name>
+    <ProjectReference Include="QFSW.QC.csproj">
+      <Project>{80a1dd62-6703-888b-b085-2eb5ac3d12a7}</Project>
+      <Name>QFSW.QC</Name>
+    </ProjectReference>
+    <ProjectReference Include="Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj">
+      <Project>{95f17051-947b-ebfe-ff54-93763f8a20fd}</Project>
+      <Name>Sirenix.OdinInspector.CompatibilityLayer.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Grammar.csproj">
+      <Project>{4c8dc199-010f-fa11-8b23-1fdc8c1e2964}</Project>
+      <Name>QFSW.QC.Grammar</Name>
+    </ProjectReference>
+    <ProjectReference Include="ScriptInspector.csproj">
+      <Project>{96a98f5d-9bed-5abe-8f40-d6a2e62ba138}</Project>
+      <Name>ScriptInspector</Name>
     </ProjectReference>
     <ProjectReference Include="Sirenix.OdinInspector.Modules.UnityMathematics.csproj">
       <Project>{ddd5789a-4e40-682b-a50e-978debc8894b}</Project>
       <Name>Sirenix.OdinInspector.Modules.UnityMathematics</Name>
     </ProjectReference>
-    <ProjectReference Include="QFSW.QC.Editor.Tools.csproj">
-      <Project>{c1ea1b5d-b830-af06-6dff-b5d2ecce55fa}</Project>
-      <Name>QFSW.QC.Editor.Tools</Name>
+    <ProjectReference Include="QFSW.QC.Parsers.csproj">
+      <Project>{d941a8b6-f66d-c24a-8a48-fc93034a0a8b}</Project>
+      <Name>QFSW.QC.Parsers</Name>
+    </ProjectReference>
+    <ProjectReference Include="ACTk.Runtime.csproj">
+      <Project>{9add0a0e-c76d-befb-7c27-56595a4585b2}</Project>
+      <Name>ACTk.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.UI.csproj">
+      <Project>{441a36c2-7d02-0c1e-5efc-93ef23220a1d}</Project>
+      <Name>QFSW.QC.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="ACTk.Examples.Genuine.Editor.csproj">
+      <Project>{19fd8bf3-4d49-41c2-e238-e4642fe7896f}</Project>
+      <Name>ACTk.Examples.Genuine.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="QFSW.QC.Editor.csproj">
       <Project>{d20fb9d0-a317-0d35-b6c6-38e2bce24dd0}</Project>
@@ -832,53 +868,17 @@
       <Project>{a1cac0c1-f73b-7d74-403c-3f2e59b5dbd6}</Project>
       <Name>ACTk.Examples.Runtime</Name>
     </ProjectReference>
-    <ProjectReference Include="Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj">
-      <Project>{95f17051-947b-ebfe-ff54-93763f8a20fd}</Project>
-      <Name>Sirenix.OdinInspector.CompatibilityLayer.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="ACTk.Examples.Genuine.Runtime.csproj">
-      <Project>{2878e9ca-27ad-c9a8-60f2-59e2b7ac031c}</Project>
-      <Name>ACTk.Examples.Genuine.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="QFSW.QC.QGUI.csproj">
-      <Project>{5bb944ec-baae-6d5c-44f5-e9bde3e03603}</Project>
-      <Name>QFSW.QC.QGUI</Name>
-    </ProjectReference>
-    <ProjectReference Include="ScriptInspector.csproj">
-      <Project>{96a98f5d-9bed-5abe-8f40-d6a2e62ba138}</Project>
-      <Name>ScriptInspector</Name>
-    </ProjectReference>
-    <ProjectReference Include="QFSW.QC.Extras.csproj">
-      <Project>{b30d5114-2e14-a4c9-7912-1236a5ce15d9}</Project>
-      <Name>QFSW.QC.Extras</Name>
-    </ProjectReference>
-    <ProjectReference Include="ACTk.Examples.Genuine.Editor.csproj">
-      <Project>{19fd8bf3-4d49-41c2-e238-e4642fe7896f}</Project>
-      <Name>ACTk.Examples.Genuine.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="QFSW.QC.Grammar.csproj">
-      <Project>{4c8dc199-010f-fa11-8b23-1fdc8c1e2964}</Project>
-      <Name>QFSW.QC.Grammar</Name>
+    <ProjectReference Include="QFSW.QC.Editor.Tools.csproj">
+      <Project>{c1ea1b5d-b830-af06-6dff-b5d2ecce55fa}</Project>
+      <Name>QFSW.QC.Editor.Tools</Name>
     </ProjectReference>
     <ProjectReference Include="QFSW.QC.Demo.csproj">
       <Project>{3fb6c121-3751-67ab-6f5b-b5ff9019016b}</Project>
       <Name>QFSW.QC.Demo</Name>
     </ProjectReference>
-    <ProjectReference Include="CodeStage.Maintainer.Editor.csproj">
-      <Project>{717ad06f-59f5-3e73-bc64-4de747514a41}</Project>
-      <Name>CodeStage.Maintainer.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="QFSW.QC.csproj">
-      <Project>{80a1dd62-6703-888b-b085-2eb5ac3d12a7}</Project>
-      <Name>QFSW.QC</Name>
-    </ProjectReference>
-    <ProjectReference Include="ACTk.Editor.csproj">
-      <Project>{7bdc8e5e-e657-d39b-db2f-3f8e209e211b}</Project>
-      <Name>ACTk.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="QFSW.QC.UI.csproj">
-      <Project>{441a36c2-7d02-0c1e-5efc-93ef23220a1d}</Project>
-      <Name>QFSW.QC.UI</Name>
+    <ProjectReference Include="QFSW.QC.Extras.csproj">
+      <Project>{b30d5114-2e14-a4c9-7912-1236a5ce15d9}</Project>
+      <Name>QFSW.QC.Extras</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
