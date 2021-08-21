@@ -422,6 +422,7 @@
     Event_TestTool_CreatedCheatCommandPhoton,
     #endregion
 
-
-    
+    #region Fishing
+    Event_OnClick_Press_Food,
+    #endregion
 }
