@@ -8,7 +8,8 @@ public class UIButton_Press_Food : UIBaseButton
     public enum PushType
     {
         Left = 0,
-        Right
+        Right,
+        UP
     }
     protected override void OnClickImpl()
     {

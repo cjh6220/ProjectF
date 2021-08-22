@@ -20,24 +20,34 @@ public class Bait : MessageListener
         switch (msgID)
         {
             case MessageID.Event_OnClick_Press_Food:
-            {
-                var info = (UIButton_Press_Food.PushType)data;
+                {
+                    var info = (UIButton_Press_Food.PushType)data;
 
-                PressFood(info);
-            }
-            break;
+                    PressFood(info);
+                }
+                break;
         }
     }
 
     void PressFood(UIButton_Press_Food.PushType pressType)
     {
-        if(pressType == UIButton_Press_Food.PushType.Left)
+        switch (pressType)
         {
-            Rigidbody2D.AddForce(Vector2.left * Force, ForceMode2D.Impulse);
-        }
-        else
-        {
-            Rigidbody2D.AddForce(Vector2.right * Force, ForceMode2D.Impulse);
+            case UIButton_Press_Food.PushType.Left:
+                {
+                    Rigidbody2D.AddForce(Vector2.left * Force, ForceMode2D.Impulse);
+                }
+                break;
+            case UIButton_Press_Food.PushType.Right:
+                {
+                    Rigidbody2D.AddForce(Vector2.right * Force, ForceMode2D.Impulse);
+                }
+                break;
+            case UIButton_Press_Food.PushType.UP:
+                {
+                    Rigidbody2D.AddForce(Vector2.up * Force * 5, ForceMode2D.Impulse);
+                }
+                break;
         }
     }
 }
