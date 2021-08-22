@@ -6,6 +6,7 @@ public class Bait : MessageListener
 {
     public Rigidbody2D Rigidbody2D;
     public float Force;
+    public float UpForce = 5;
     protected override void AddMessageListener()
     {
         base.AddMessageListener();
@@ -45,7 +46,7 @@ public class Bait : MessageListener
                 break;
             case UIButton_Press_Food.PushType.UP:
                 {
-                    Rigidbody2D.AddForce(Vector2.up * Force * 5, ForceMode2D.Impulse);
+                    Rigidbody2D.AddForce(Vector2.up * Force * UpForce, ForceMode2D.Impulse);
                 }
                 break;
         }
